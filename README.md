@@ -1,0 +1,4 @@
+Food ordering website (V 2.0)
+Author: Jawad Ahmed 
+
+This is a PHP, CSS, JS, SQL, HTML5 and BOOTSTRAP based project which i started working on when i was doing a course in my university life. This project haas two ends, one from the administrator and one from the customer. The customer can order food with both COD and wallet method, can open a ticket and also edit their informations(Added in this version). The administrator can upadte any order status, can reply to the ticket and close the ticket and also can ban a customer permanently(added in this version). However, this project symply focuses on the interaction between languages apart from a beautiful interface because i tried to keep it as lite as possible. 
